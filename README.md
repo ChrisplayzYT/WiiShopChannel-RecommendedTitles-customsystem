@@ -1,5 +1,5 @@
-# Wii Shop Channel | Custom Recommended Titles system, made by ChrisplayzYT/BLOX!
-
+# Wii Shop Channel | Custom Recommended Titles system
+<h3 style="color:#34BEED;">Made by ChrisplayzYT/BLOX!</h3>
 This is a system built from scratch, allowing for ease of inserting into your shop project, and customiseable recommended titles.
 
 # Video of it working:

@@ -1,5 +1,5 @@
 # Wii Shop Channel | Custom Recommended Titles system
-<h3 style="margin:0px; padding:0px;">Made by ChrisplayzYT/BLOX!</h3>
+<span style="font-size:16px; margin:0px; padding:0px;">Made by ChrisplayzYT/BLOX!</span>
 This is a system built from scratch, allowing for ease of inserting into your shop project, and customiseable recommended titles.
 
 # Video of it working:

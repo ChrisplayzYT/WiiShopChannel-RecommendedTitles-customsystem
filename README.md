@@ -1,7 +1,9 @@
 # WiiShopChannel-RecommendedTitles-customsystem
 This is a system built from scratch, allowing for ease of inserting into your shop project, and customiseable recommended titles.
 
-
+# Video of it working:
+<video src="https://github.com/user-attachments/assets/3fd538b7-8753-4279-b1f8-8fc6ff53361f" controls="" style="border-radius:3px;"></video>
+<br>
 # how to use:
 
 <h3 style="font-style:italic;"> If your using this system outside of nintendos W_01.jsp/welcome page code, in the part of this text named "the recommended titles code needed", 

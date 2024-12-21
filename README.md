@@ -1,4 +1,5 @@
-# WiiShopChannel-RecommendedTitles-customsystem
+# Wii Shop Channel | Custom Recommended Titles system, made by ChrisplayzYT/BLOX!
+
 This is a system built from scratch, allowing for ease of inserting into your shop project, and customiseable recommended titles.
 
 # Video of it working:

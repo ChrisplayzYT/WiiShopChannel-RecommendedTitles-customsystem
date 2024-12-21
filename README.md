@@ -2,7 +2,7 @@
 This is a system built from scratch, allowing for ease of inserting into your shop project, and customiseable recommended titles.
 
 # Video of it working:
-( the dots are just to show the titles dissappearing, you can remove them using shop.setWallpaper(2); )
+( the dots are just to show the titles changing/hiding, you can remove them using shop.setWallpaper(2); )
 <video src="https://github.com/user-attachments/assets/0e352ba7-eae0-424b-a539-6e36ca59eef3" controls="" style="border-radius:3px;"></video>
 
 # how to use:

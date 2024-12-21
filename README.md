@@ -4,13 +4,16 @@ This is a system built from scratch, allowing for ease of inserting into your sh
 
 # how to use:
 
-# If your using this system outside of nintendos W_01.jsp/welcome page code, in the part of this text named "the recommended titles code needed", 
+<h3 style="font-style:italic;"> If your using this system outside of nintendos W_01.jsp/welcome page code, in the part of this text named "the recommended titles code needed", 
 
 paste that code somewhere within your pages body & put onload="startrecommended();" in the body element, 
-or put "startrecommended();" somewhere within a function that loads on the pages load.
+or put "startrecommended();" somewhere within a function that loads on the pages load. </h3>
 
-# If your using this system inside of nintendos W_01.jsp/welcome page code, 
-REMOVE THIS: 
+<h3 style="font-style:italic;"> If your using this system inside of nintendos W_01.jsp/welcome page code,  </h3>
+<h3>first, REMOVE THIS:  </h3>
+
+```
+
 <div id="SoftListSpacer">
     <a id="headerURL" href="javascript:showPage('B_04.jsp?p=1&rec=true')">
         <img src="/oss/oss/common/images//spacer.gif" width="551" height="42" border="0" 
@@ -23,7 +26,10 @@ REMOVE THIS:
     </a>
 </div>
 
-and replace this block of code:
+```
+<h3>then, replace this block of code: </h3>
+
+```
 
 <div id="posLeftArrowID" class="posLeftArrow">
 <img id="posLeftArrowimageID" border='0'
@@ -78,8 +84,10 @@ and replace this block of code:
   </div>
 </div>
 
-with the code in the part of this text named "the recommended titles code needed" 
-& put "startrecommended();" somewhere within the initPageCommon() function (putting it on top is recommended).
+```
+
+<h3> with the code in the part of this text named "the recommended titles code needed" </h3>
+<h3> & put "startrecommended();" somewhere within the initPageCommon() function (putting it on top is recommended). </h3>
 
 
 
@@ -87,13 +95,7 @@ with the code in the part of this text named "the recommended titles code needed
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ↓ the recommended titles code needed ↓
 
-
-
-<!-- 
-     !!! this recommended titles system is intended for use on the Wii Shop Channel w/ the default built in wsc opera styles, html 4.1, css 2.0/2.1 and js 1.1/1.2, 
-     !!! this is NOT intended for modern browsers running html5/css3,
-     !!! If you want that, either ask Nathan from https://wiishopchannel.net, or create your own, it will not look good on any other browser besides the wii shop channel. 
--->
+```
 
     <div id="wiishopchannelrecommendedtitles" alt="made by ChrisplayzYT/BLOX 2024.">
 
@@ -433,13 +435,9 @@ with the code in the part of this text named "the recommended titles code needed
     
         <!-- recommended end   (made by ChrisplayzYT/BLOX, 10/25/2024 - 10/26/2024) -->
     </div>
-<!-- 
-     !!! this recommended titles system is intended for use on the Wii Shop Channel w/ the default built in wsc opera styles, html 4.1, css 2.0/2.1 and js 1.1/1.2, 
-     !!! this is NOT intended for modern browsers running html5/css3,
-     !!! If you want that, either ask Nathan from https://wiishopchannel.net, or create your own, it will not look good on any other browser besides the wii shop channel. 
--->
 
 
+```
 
 ↑ the recommended titles code needed ↑
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------

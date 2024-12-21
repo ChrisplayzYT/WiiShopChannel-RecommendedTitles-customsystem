@@ -1,0 +1,140 @@
+#hdr  {
+    background-image:url("/static/recommendedtitles/ARROWSANDHEADER/GifA_SoftList_noaction.png");
+    background-repeat:no-repeat;
+    width: 551px;
+    height: 42px;
+    margin-top:27px;
+    margin-left:20px;
+    text-align:center;
+    padding-top:3px;
+    transition: margin-left 1s ease-in-out;
+}
+#hdr:hover  {
+    background-image:url("/static/recommendedtitles/ARROWSANDHEADER/GifA_SoftList_over.png");
+    background-repeat:no-repeat;
+    text-align:center;
+}
+#hdr:active  {
+    background-image:url("/static/recommendedtitles/ARROWSANDHEADER/GifA_SoftList_press.png");
+    background-repeat:no-repeat;
+    text-align:center;
+}
+
+                /* recom boxes */
+                
+                #recomtitle01 {
+                    margin-left:3px;
+                    margin-top:0px;
+                    width: 280px;
+                    height:83px;
+                    max-width:280px;
+                    max-height:83px;
+                    overflow:hidden;
+                    background-repeat:no-repeat;
+                    background-image:url("/static/recommendedtitles/ARROWSANDHEADER/GifA_Soft_noAction.png");
+                    display:inline-block;
+                }
+            #recomtitle01:hover {
+            
+            background-image:url("/static/recommendedtitles/ARROWSANDHEADER/GifA_Soft_over.png");
+            }
+            #recomtitle01:active {
+            background-image:url("/static/recommendedtitles/ARROWSANDHEADER/GifA_Soft_press.png");
+            }
+            
+                #recomtitle02 {
+                    display:inline-block;
+                    margin-left:-4px;
+                    margin-top:0px;
+                    width: 290px;
+                    height:83px;
+                    max-width:290px;
+                    max-height:83px;
+                    overflow:hidden;
+                    background-repeat:no-repeat;
+                    background-image:url("/static/recommendedtitles/ARROWSANDHEADER/GifA_Soft_noAction.png");
+                }
+            #recomtitle02:hover {
+            
+            background-image:url("/static/recommendedtitles/ARROWSANDHEADER/GifA_Soft_over.png");
+            }
+            #recomtitle02:active {
+            background-image:url("/static/recommendedtitles/ARROWSANDHEADER/GifA_Soft_press.png");
+            }
+            
+            #recomtitle03 {
+                display:inline-block;
+                    margin-left:3px;
+                    margin-top:-10px;
+                    width: 282px;
+                    height:83px;
+                    max-width:282px;
+                    max-height:83px;
+                    overflow:hidden;
+                    background-repeat:no-repeat;
+                    background-image:url("/static/recommendedtitles/ARROWSANDHEADER/GifA_Soft_noAction.png");
+                }
+            #recomtitle03:hover {
+            
+            background-image:url("/static/recommendedtitles/ARROWSANDHEADER/GifA_Soft_over.png");
+            }
+            #recomtitle03:active {
+            background-image:url("/static/recommendedtitles/ARROWSANDHEADER/GifA_Soft_press.png");
+            }
+            
+            #recomtitle04 {
+                display:inline-block;
+                    margin-left:-4px;
+                    margin-top:-10px;
+                    width: 282px;
+                    height:83px;
+                    max-width:282px;
+                    max-height:83px;
+                    overflow:hidden;
+                    background-repeat:no-repeat;
+                    background-image:url("/static/recommendedtitles/ARROWSANDHEADER/GifA_Soft_noAction.png");
+                }
+            #recomtitle04:hover {
+            
+            background-image:url("/static/recommendedtitles/ARROWSANDHEADER/GifA_Soft_over.png");
+            }
+            #recomtitle04:active {
+            background-image:url("/static/recommendedtitles/ARROWSANDHEADER/GifA_Soft_press.png");
+            }
+            
+            /* recom boxes */
+            
+            /* recom box title info */
+            
+                #recomtitleimgsrc {
+                    width:70px;
+                    max-width:70px;
+                    min-width:70px;
+                    height:53px;
+                    max-height:53px;
+                    min-height:53px;
+                    margin-left:10px;
+                    margin-top:10px;
+                    border:0px solid transparent;
+                }
+                #recomtitlename {
+                color: #333333;
+                font-size: 15px;
+                max-width:170px;
+                width:170px;
+                display:block;
+                margin-top:-54px;
+                margin-left:93px;
+                line-height:18px;
+                }
+                #recomtitleprice {
+                color: #333333;
+                font-size: 15px;
+                max-width:170px;
+                width:170px;
+                display:block;
+                margin-top:16px;
+                margin-left:93px;
+                }
+            
+            /* recom box title info */

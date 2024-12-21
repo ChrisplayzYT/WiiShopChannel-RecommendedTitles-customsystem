@@ -1,5 +1,4 @@
 # Wii Shop Channel | Custom Recommended Titles system
-<span style="font-size:18px; margin:0px; padding:0px;">Made by ChrisplayzYT/BLOX!</span>
 This is a system built from scratch, allowing for ease of inserting into your shop project, and customiseable recommended titles.
 
 # Video of it working:
@@ -446,3 +445,7 @@ or put "startrecommended();" somewhere within a function that loads on the pages
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ↑ the recommended titles code needed ↑
 
+
+
+# Wii Shop Channel Custom Recommended Titles System made by ChrisplayzYT/BLOX.
+All Rights Reserved to Nintendo/Opera for the built in code "new wiiShop(), "new wiiSound()", and DreamWeaver for MM_preloadImages(); used by Acer Cloud/Nintendo, 2006.

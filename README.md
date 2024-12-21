@@ -446,6 +446,6 @@ or put "startrecommended();" somewhere within a function that loads on the pages
 ↑ the recommended titles code needed ↑
 
 
-
-# Wii Shop Channel Custom Recommended Titles System made by ChrisplayzYT/BLOX.
+<br><br><br>
+ Wii Shop Channel Custom Recommended Titles System made by ChrisplayzYT/BLOX.
 All Rights Reserved to Nintendo/Opera for the built in code "new wiiShop(), "new wiiSound()", and DreamWeaver for MM_preloadImages(); used by Acer Cloud/Nintendo, 2006.

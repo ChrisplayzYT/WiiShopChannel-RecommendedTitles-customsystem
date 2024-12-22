@@ -3,7 +3,7 @@ This is a system built from scratch, allowing for ease of inserting into your sh
 
 # Video of it working:
 ( the dots are just to show the titles changing/hiding, you can remove them using shop.setWallpaper(2); )
-<video src="https://github.com/user-attachments/assets/0e352ba7-eae0-424b-a539-6e36ca59eef3" controls="" style="border-radius:3px;"></video>
+<video src="https://github.com/user-attachments/assets/321f739a-2c2a-48b4-a4e4-88a0afaf2e2f" controls="" style="border-radius:3px;"></video>
 
 # how to use:
 

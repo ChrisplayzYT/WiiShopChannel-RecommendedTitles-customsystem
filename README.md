@@ -30,7 +30,7 @@ or put "startrecommended();" somewhere within a function that loads on the pages
 </div>
 
 ```
-<h3>then, replace this block of code: </h3>
+<h3>then, replace this block of code below, with the code in the part of this text named "the recommended titles code needed", & put "startrecommended();" somewhere within the initPageCommon() function (putting it on top is recommended). </h3>
 
 ```
 
@@ -88,9 +88,6 @@ or put "startrecommended();" somewhere within a function that loads on the pages
 </div>
 
 ```
-
-<h3> with the code in the part of this text named "the recommended titles code needed" </h3>
-<h3> & put "startrecommended();" somewhere within the initPageCommon() function (putting it on top is recommended). </h3>
 
 
 

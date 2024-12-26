@@ -8,7 +8,7 @@ This is a system built from scratch, allowing for ease of inserting into your sh
 ( the dots are just to show the titles changing/hiding, you can remove them using shop.setWallpaper(2); )
 <video  src="https://github.com/user-attachments/assets/" controls="" style="border-radius:5px;"></video>
 
-# how to use:
+# how to use: (you need to download the static folder too btw)
 
 <h3 style="font-style:italic;"> If your using this system outside of nintendos W_01.jsp/welcome page code, in the part of this text named "the recommended titles code needed", 
 

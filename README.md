@@ -16,21 +16,19 @@ paste that code somewhere within your pages body & put onload="startrecommended(
 or put "startrecommended();" somewhere within a function that loads on the pages load. </h3>
 
 <h3 style="font-style:italic;"> If your using this system inside of nintendos W_01.jsp/welcome page code,  </h3>
-<h3>first, REMOVE THIS:  </h3>
+<h3>first, REMOVE THIS from W_01:  </h3>
 
 ```
-
-<div id="SoftListSpacer">
-    <a id="headerURL" href="javascript:showPage('B_04.jsp?p=1&rec=true')">
-        <img src="/oss/oss/common/images//spacer.gif" width="551" height="42" border="0" 
-            onMouseDown="MM_swapImage('SofList','','/oss/oss/common/images//banner/GifA_SoftList_Press.png',1);focus_Header();" 
-            onMouseUp="MM_swapImage('SofList','','/oss/oss/common/images//banner/GifA_SoftList_Over.png',1)focus_Header();" 
-            onMouseOver="MM_swapImage('SofList','','/oss/oss/common/images//banner/GifA_SoftList_Over.png',1); snd.playSE( cSE_Forcus );move_fleeze_cursor();focus_Header();" 
-            onMouseOut="MM_swapImage('SofList','','/oss/oss/common/images//banner/GifA_SoftList_noAction.png',1);" 
-            onClick="snd.playSE(cSE_Decide);" 
-        />
-    </a>
-</div>
+          <div id="SofList01"><img src="/oss/oss/common/images//banner/GifA_SoftList_noAction.png" name="SofList"></div>
+          <div id="txtSoftList" align="center">
+              <span class="style1">Wii Shop Channel</span>
+              <span class="style2">Recommended Titles</span>
+          </div>
+          <div id="SoftListSpacer">
+              <a id="headerURL" href="javascript:showPage('B_04.jsp?p=1&amp;rec=true')">
+                  <img src="/oss/oss/common/images//spacer.gif" width="551" height="42" border="0" onmousedown="MM_swapImage('SofList','','/oss/oss/common/images//banner/GifA_SoftList_Press.png',1);focus_Header();" onmouseup="MM_swapImage('SofList','','/oss/oss/common/images//banner/GifA_SoftList_Over.png',1)focus_Header();" onmouseover="MM_swapImage('SofList','','/oss/oss/common/images//banner/GifA_SoftList_Over.png',1); snd.playSE( cSE_Forcus );move_fleeze_cursor();focus_Header();" onmouseout="MM_swapImage('SofList','','/oss/oss/common/images//banner/GifA_SoftList_noAction.png',1);" onclick="snd.playSE(cSE_Decide);">
+              </a>
+          </div>
 
 ```
 <h3>then, replace this block of code below, with the code in the part of this text named "the recommended titles code needed", & put "startrecommended();" somewhere within the initPageCommon() function (putting it on top is recommended). </h3>

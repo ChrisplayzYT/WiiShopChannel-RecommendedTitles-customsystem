@@ -1,4 +1,4 @@
-
+<p>plz give credit, those arrow animations are hard asf to sync perfectly :)</p>
 # Wii Shop Channel | Custom Recommended Titles system
 This is a system built from scratch, allowing for ease of inserting into your shop project, and customiseable recommended titles.
 

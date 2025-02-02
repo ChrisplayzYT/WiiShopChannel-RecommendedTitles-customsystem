@@ -5,16 +5,12 @@ This is a system built from scratch, allowing for ease of inserting into your sh
 # Video of it working:
 ( the dots are just to show the titles changing/hiding, you can remove them using shop.setWallpaper(2); )
 <br>
-( the system is NOT choppy, thats just an issue with my computer, it lags alot when i try to record stuff :< )
-<br>
 <h3>NEW version (V2, with some better animation and tons of bug fixes!1!1):</h3>
-<video  src="https://github.com/user-attachments/assets/a7cb7ce7-41ee-4943-940d-16fba66649a9" controls="" style="border-radius:5px;"></video>
+<video  src="https://github.com/user-attachments/assets/e95523ed-6e62-4dce-8cbe-73204eac9123" controls="" style="border-radius:5px;"></video>
 
 <br>
 <h3>old version (V1, no longer supported):</h3>
 <video  src="https://github.com/user-attachments/assets/](https://github.com/user-attachments/assets/02f60d8b-9158-4d18-aa66-a7dbf5d0a995" controls="" style="border-radius:5px;"></video>
-
-
 
 
 

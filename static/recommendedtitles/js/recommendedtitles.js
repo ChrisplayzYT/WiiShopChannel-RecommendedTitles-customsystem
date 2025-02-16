@@ -1,6 +1,6 @@
 // (optional if you already have this in another js file, remove this.)
 var shop = new wiiShop();
-// made by ChrisplayzYT/BLOX, 10/25/2024 - 2/1/2025
+// made by ChrisplayzWii, 10/25/2024 - 2/1/2025
 
 // recommended titles preloader part 1
 MM_preloadImages(

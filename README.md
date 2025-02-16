@@ -115,15 +115,15 @@ or put "startrecommended();" somewhere within a function that loads on the pages
             }
 
 <!-- 
-    Recommended titles system recreation by ChrisplayzYT/BLOX, 2025.
+    Recommended titles system recreation by ChrisplayzWii, 2025.
      !!! this recommended titles system is intended for use on the Wii Shop Channel w/ the default built in wsc opera styles, html 4.1, css 2.0/2.1 and js 1.1/1.2, 
      !!! this is NOT intended for modern browsers running html5/css3,
      !!! If you want that, either ask Nathan from https://wiishopchannel.net, or create your own, it will not look good on any other browser besides the wii shop channel. 
 -->
 
-    <div id="wiishopchannelrecommendedtitles" alt="made by ChrisplayzYT/BLOX 2024.">
+    <div id="wiishopchannelrecommendedtitles" alt="made by ChrisplayzWii 2024.">
 
-<!-- recommended start (made by ChrisplayzYT/BLOX, 10/25/2024 - 2/1/2025)-->
+<!-- recommended start (made by ChrisplayzWii, 10/25/2024 - 2/1/2025)-->
 
         <!-- !!! HOW TO STARTUP THE RECOMMENDED TITLES SYSTEM:
      you can either put onload="startrecommended();" in the body element,
@@ -465,11 +465,11 @@ or put "startrecommended();" somewhere within a function that loads on the pages
     
         </div>
     
-        <!-- recommended end  (made by ChrisplayzYT/BLOX, 10/25/2024 - 2/1/2025) -->
+        <!-- recommended end  (made by ChrisplayzWii, 10/25/2024 - 2/1/2025) -->
     
     </div>
 <!-- 
-        Recommended titles system recreation by ChrisplayzYT/BLOX, 2025.
+        Recommended titles system recreation by ChrisplayzWii, 2025.
      !!! this recommended titles system is intended for use on the Wii Shop Channel w/ the default built in wsc opera styles, html 4.1, css 2.0/2.1 and js 1.1/1.2, 
      !!! this is NOT intended for modern browsers running html5/css3,
      !!! If you want that, either ask Nathan from https://wiishopchannel.net, or create your own, it will not look good on any other browser besides the wii shop channel. 
@@ -507,6 +507,6 @@ OR
 </h2>
 
 <br><br><br>
- Wii Shop Channel Custom Recommended Titles System made by ChrisplayzYT/BLOX.
+ Wii Shop Channel Custom Recommended Titles System made by ChrisplayzWii.
  <br>
 All Rights Reserved to Nintendo/Opera for the built in code "new wiiShop(), "new wiiSound()", and DreamWeaver for MM_preloadImages(); used by Acer Cloud/Nintendo, 2006.
